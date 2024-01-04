@@ -79,7 +79,7 @@ class GameWheel:
         
         # 显示最终结果
         self.canvas.create_text(self.canvas_size / 2, self.canvas_size / 2, text = self.selected_game,
-                                font = ("仿宋", 12, "bold"), fill = "red")
+                                font = ("仿宋", 16, "bold"), fill = "red")
 
 if __name__ == "__main__":
     root = tk.Tk( )
