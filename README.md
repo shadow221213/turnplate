@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: shadow221213
  * @Date: 2024-01-05 00:41:14
- * @LastEditTime: 2024-01-05 01:52:50
+ * @LastEditTime: 2024-01-05 01:55:15
 -->
 # <div align="center">转盘</div>
 
@@ -10,7 +10,7 @@
 
 ## 使用方法
 
-如果没有pyinstaller库，可使用```pip install pyinstaller```下载pyinstaller库
+如果没有pyinstaller库，可使用`pip install pyinstaller`下载pyinstaller库
 
 更改`main.py`中的`self.game_options`的值即可更改转盘每个扇区的显示值
 
