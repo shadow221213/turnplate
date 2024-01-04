@@ -6,7 +6,7 @@ class GameWheel:
     
     def __init__( self, root ):
         self.root = root
-        self.root.title("随机游戏转盘")
+        self.root.title("大儿帮我选一下")
         
         self.canvas_size = 400
         self.wheel_size = 300
